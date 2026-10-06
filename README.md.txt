@@ -47,11 +47,12 @@ Active terminal layouts proving end-to-end ICMP data plane traversal through the
 * **DMZ Host Interface:**
 ![Server-A_DMZ](Server-A_DMZ.png)
 
-### 📺 Live Topology & Traffic Validation Walk-Through
-Click the video asset below to view the full live engineering walk-through demonstrating active configuration verification, interface validation, and real-time stateful packet inspection tracing:
+### 📺 Active Firewall Policy Matrix (Rolling Video Capture)
+Because the active firewall policy table spans across multiple security vectors and includes multi-layered UTM profiles that cannot be fully captured in a single static screenshot, the full operational matrix is documented below via a rolling video capture:
 
-▶️ **[Watch the FortiGate Lab Demonstration Video](FortiGate_Lab_Demo.mp4)**
+[![Watch the FortiGate Policy Matrix Video](https://youtube.com)](https://youtu.be/wvgrsLyiPpM)
 
+💡 *Tip: If the preview banner above doesn't load, you can access the stream directly via the [FortiGate Policy Table YouTube Link](https://youtu.be/wvgrsLyiPpM).*
 ---
 
 ## 🔑 Core Command Execution Log (Verified Syntax)
