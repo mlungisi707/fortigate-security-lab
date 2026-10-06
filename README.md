@@ -50,9 +50,12 @@ Active terminal layouts proving end-to-end ICMP data plane traversal through the
 ### 📺 Active Firewall Policy Matrix Rolling Video
 Because the active firewall policy table spans across multiple security vectors and includes multi-layered UTM profiles that cannot be fully captured in a single static screenshot, the full operational matrix is documented below via a rolling video capture:
 
-[![Watch the FortiGate Policy Matrix Video](https://vimeo.com)](https://vimeo.com/1233421490?fl=ip&fe=ec)
+### 📺 Active Firewall Policy Matrix (Rolling Video Capture)
+Because the active firewall policy table spans across multiple security vectors and includes multi-layered UTM profiles that cannot be fully captured in a single static screenshot, the full operational matrix is documented below via a rolling video capture:
 
-💡 *Tip: You can view the full-screen rolling capture directly via the [FortiGate Policy Table Stream](https://vimeo.com/1233421490?fl=ip&fe=ec).*
+[![Watch the FortiGate Policy Matrix Video](https://youtube.com)](https://youtu.be/wvgrsLyiPpM)
+
+💡 *Tip: If the preview banner above doesn't load, you can access the stream directly via the [FortiGate Policy Table YouTube Link](https://youtu.be/wvgrsLyiPpM).*
 
 ---
 
