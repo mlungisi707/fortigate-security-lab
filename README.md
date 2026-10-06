@@ -50,7 +50,7 @@ Active terminal layouts proving end-to-end ICMP data plane traversal through the
 ### 📺 Live Topology & Traffic Validation Walk-Through
 Click the video asset below to view the full live engineering walk-through demonstrating active configuration verification, interface validation, and real-time stateful packet inspection tracing:
 
-▶️ **[Click Here to Download or Play the Video Walk-Through](FortiGate_Lab_Demo.mp4?raw=true)**
+▶️ *[Watch the FortiGate Lab Demonstration Video](FortiGate_Lab_Demo.mp4)*
 
 ---
 
