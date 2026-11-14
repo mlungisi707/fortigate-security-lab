@@ -30,7 +30,7 @@ The deployment was executed utilizing **VMware Workstation Pro**. Due to hardwar
 
 ### 1. Unified Management Dashboard
 Below is the verified graphical interface proving active license ingestion and system asset performance parameters.
-![FortiDashboard](FortiDashboard.png)
+![FortiDashboard](images/FortiDashboard.png)
 
 ### 2. Interface Topology Matrix
 The live layer-3 mapping layout demonstrating operational status indicators across ports 1, 2, and 3.
