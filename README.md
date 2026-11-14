@@ -34,18 +34,18 @@ Below is the verified graphical interface proving active license ingestion and s
 
 ### 2. Interface Topology Matrix
 The live layer-3 mapping layout demonstrating operational status indicators across ports 1, 2, and 3.
-![Interface_topology](Interfacetopology.png)
+![Interface_topology](images/Interfacetopology.png)
 
 ### 3. Destination NAT (Virtual IP) & Policy Table
 The visual confirmation of stateful traffic rules protecting the boundary vectors and routing vectors.
-![NAT_VIP](NAT_VIP.png)
+![NAT_VIP](images/NAT_VIP.png)
 
 ### 4. End-Host Verification Plane
 Active terminal layouts proving end-to-end ICMP data plane traversal through the security gateway from both segments.
 * **LAN Client Interface:**
-![PC-A_Workstation](PC-A_Workstation.png)
+![PC-A_Workstation](images/PC-A_Workstation.png)
 * **DMZ Host Interface:**
-![Server-A_DMZ](Server-A_DMZ.png)
+![Server-A_DMZ](images/Server-A_DMZ.png)
 
 ### 📺 Active Firewall Policy Matrix Rolling Video
 Because the active firewall policy table spans across multiple security vectors and includes multi-layered UTM profiles that cannot be fully captured in a single static screenshot, the full operational matrix is documented below via a rolling video capture:
